@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="git2.jpg" alt="Banner" width="100%" />
+</p>
 
 
 
