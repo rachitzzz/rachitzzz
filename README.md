@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
 </p>
-
+<br></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitzzz" alt="rachitzzz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -104,11 +104,11 @@
 </p>
 
 ### 📊 Github Stats
-<div align="centre">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitzzz&show_icons=true&locale=en&layout=compact" alt="rachitzzz" /></p>
+<div align="center">
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitzzz&show_icons=true&locale=en&layout=compact" alt="rachitzzz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitzzz&show_icons=true&locale=en" alt="rachitzzz" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rachitzzz&show_icons=true&locale=en" alt="rachitzzz" /></p>
 </div>
-
-<div align="centre">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitzzz&" alt="rachitzzz" /></p>
+<div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitzzz&" alt="Streakstats" /></p>
+</div>
