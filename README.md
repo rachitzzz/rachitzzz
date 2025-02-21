@@ -96,7 +96,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rachit-sharma-b34839287/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="rachit-sharma" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="rachit-sharma" height="55" width="55" />
 </a>
 <a href="https://instagram.com/rachit.sharmaa_" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachit.sharmaa_" height="40" width="40" />
